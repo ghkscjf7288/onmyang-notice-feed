@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T21:29:30.325964+09:00",
+  "generated_at": "2026-11-18T23:13:00.651277+09:00",
   "sources": {
     "world": {
       "status": "ok",
-      "checked_at": "2026-11-18T21:29:40.125781+09:00",
+      "checked_at": "2026-11-18T23:13:12.763071+09:00",
       "posts": [
         {
           "source": "world",
@@ -28,7 +28,7 @@
     },
     "planet": {
       "status": "ok",
-      "checked_at": "2026-11-18T21:29:46.907316+09:00",
+      "checked_at": "2026-11-18T23:13:18.641193+09:00",
       "posts": [
         {
           "source": "planet",
@@ -194,7 +194,7 @@
     },
     "patch": {
       "status": "ok",
-      "checked_at": "2026-11-18T21:29:56.373030+09:00",
+      "checked_at": "2026-11-18T23:13:28.881482+09:00",
       "posts": [
         {
           "source": "patch",
