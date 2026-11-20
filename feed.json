@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T15:04:43.792240+09:00",
+  "generated_at": "2026-11-20T16:01:01.790537+09:00",
   "sources": {
     "world": {
       "status": "ok",
-      "checked_at": "2026-11-20T15:04:57.020253+09:00",
+      "checked_at": "2026-11-20T16:01:15.671672+09:00",
       "posts": [
         {
           "source": "world",
@@ -13,7 +13,8 @@
           "url": "https://maplestoryworlds.nexon.com/ko/community/5005/2120/3582468",
           "published": "2026-11-18",
           "body": "안녕하세요. 메이플스토리 월드입니다.\n11월 19일(목) 오전 6시 30분부터 오전 10시까지 업데이트를 위한 점검이 진행됩니다.\n이번 업데이트를 통해 월드 상품 중복 구매 방지를 위한 안내가 추가될 예정이며,\n이 외 클라이언트 일부 기능 개선 및 확인된 문제 수정 등이 진행될 예정입니다.\n자세한 업데이트 소식은 추후 안내 드리는 패치노트에서 확인해주시기 바랍니다.\n1. 작업 일시\n■ 11월 19일(목) 오전 6시 30분 ~ 오전 10시 (총 3시간 30분)\n2. 배포 버전\n■ PC/모바일 클라이언트: 26.11.0\n* 이용 중 버전 확인 방법 : 설정 → 기타 → 버전\n* 점검 이후 작업 내용 적용을 위해 클라이언트 업데이트가 필요합니다.\n메이플스토리 월드 공식 홈페이지를 통한 클라이언트 실행을 부탁드립니다.\n* 모바일 클라이언트의 경우 스토어를 통한 최신 버전 업데이트를 부탁드립니다.\n3. 작업 내용\n- 공통(PC/모바일)\n■ 월드 상품 중복 구매 방지 안내 및 결제 취소 시 환불 진행 상태 표시가 추가됩니다.\n■ 월드 상품 구매 중 네트워크 타임아웃 등으로 결제가 취소되면 결제 취소 안내 알림이 제공됩니다.\n■ 이 외 자세한 내용은 패치노트에서 확인 부탁드립니다.\n4. 작업 영향\n- PC(Windows/Mac)\n■ 점검 기간에는 클라이언트 및 공식 홈페이지 이용이 불가합니다.\n■ 클라이언트에 접속 중인 경우 오류 팝업과 함께 연결이 종료될 수 있습니다.\n■ 일부 작업에 한하여 내역 적용을 위한 모니터링이 진행될 수 있습니다.\n- 모바일\n■ 점검 종료 후 모바일 클라이언트에서 접속 시 업데이트 안내 팝업이 노출될 수 있습니다.\n감사합니다.\n메이플스토리 월드 드림.",
-          "blocks": []
+          "blocks": [],
+          "images": []
         },
         {
           "source": "world",
@@ -22,13 +23,14 @@
           "url": "https://maplestoryworlds.nexon.com/ko/community/5005/2120/3578352",
           "published": "2026-11-11",
           "body": "안녕하세요. 메이플스토리 월드입니다.\n11/12(목) 오전 8시부터 오전 10시까지 업데이트 준비를 위한 사전 점검이 진행됩니다.\n점검에 대한 자세한 내용은 아래에서 확인하실 수 있으며,\n점검 중에는 클라이언트 및 공식 홈페이지 이용이 불가한 점 참고 부탁드립니다.\n1. 작업 일시\n■ 11월 12일(목) 오전 8시 ~ 오전 10시 (총 2시간)\n2. 작업 내용\n- 공통 (PC/모바일)\n■ 추후 진행될 업데이트에 대한 사전 준비 작업이 진행됩니다.\n3. 작업 영향\n- 공통 (PC/모바일)\n■ 점검 기간에는 클라이언트 및 공식 홈페이지 이용이 불가합니다.\n■ 클라이언트에 접속 중인 경우 오류 팝업과 함께 연결이 종료될 수 있습니다.\n■ 일부 작업에 한하여 내역 적용을 위한 모니터링이 진행될 수 있습니다.\n감사합니다.\n메이플스토리 월드 드림.",
-          "blocks": []
+          "blocks": [],
+          "images": []
         }
       ]
     },
     "planet": {
       "status": "ok",
-      "checked_at": "2026-11-20T15:05:00.018460+09:00",
+      "checked_at": "2026-11-20T16:01:19.789298+09:00",
       "posts": [
         {
           "source": "planet",
@@ -58,7 +60,8 @@
               "점검 영향",
               "점검 시간은 내부 상황에 따라 변경될 수 있으며, 변동 사항이 있을 경우 별도 안내드리겠습니다."
             ]
-          ]
+          ],
+          "images": []
         },
         {
           "source": "planet",
@@ -88,7 +91,8 @@
               "점검 영향",
               "점검 시간은 내부 상황에 따라 변경될 수 있으며, 변동 사항이 있을 경우 별도 안내드리겠습니다."
             ]
-          ]
+          ],
+          "images": []
         },
         {
           "source": "planet",
@@ -118,7 +122,8 @@
               "점검 영향",
               "점검 시간은 내부 상황에 따라 변경될 수 있으며, 변동 사항이 있을 경우 별도 안내드리겠습니다."
             ]
-          ]
+          ],
+          "images": []
         },
         {
           "source": "planet",
@@ -188,13 +193,14 @@
               "점검 영향",
               "점검 시간은 내부 상황에 따라 변경될 수 있으며, 변동 사항이 있을 경우 별도 안내드리겠습니다."
             ]
-          ]
+          ],
+          "images": []
         }
       ]
     },
     "event": {
       "status": "ok",
-      "checked_at": "2026-11-20T15:05:14.647309+09:00",
+      "checked_at": "2026-11-20T16:01:33.316140+09:00",
       "posts": [
         {
           "source": "event",
@@ -215,6 +221,12 @@
             [
               "플래닛 럭키럭키 몬스터리 이벤트 안내",
               "■ 이벤트 내용 : 참여만 해도 보상이 기다리는 럭키럭키 몬스터리 ! 지금 도전하고, 행운의 주인공 이 되어 보세요!"
+            ]
+          ],
+          "images": [
+            [
+              "✨ 플래닛 럭키럭키 몬스터리 이벤트 안내",
+              "https://mapleplanet.io/uploads/cs/content-44d38932-10e9-4cad-9b7c-dec63459d82e.png"
             ]
           ]
         },
@@ -238,7 +250,8 @@
               "메이플플래닛 상시진행 이벤트",
               "■ 내용 : 아래와 같은 버프가 상시 적용됩니다."
             ]
-          ]
+          ],
+          "images": []
         },
         {
           "source": "event",
@@ -259,6 +272,12 @@
             [
               "플래닛 업앤업! 이벤트 안내",
               "■ 이벤트 내용 : 레벨업의 즐거움을 두배로 느껴보자!"
+            ]
+          ],
+          "images": [
+            [
+              "✨ 플래닛 업앤업! 이벤트 안내",
+              "https://mapleplanet.io/uploads/cs/content-e9b09142-63b9-4d57-8664-ff5eb1557607.png"
             ]
           ]
         },
@@ -310,6 +329,12 @@
               "플래닛 할로윈 핫타임 이벤트 안내",
               "■ 이벤트 일정 및 보상 구성은 운영 상황에 따라 일부 조정될 수 있습니다."
             ]
+          ],
+          "images": [
+            [
+              "✨플래닛 할로윈 핫타임 이벤트 안내",
+              "https://mapleplanet.io/uploads/cs/content-cb15177c-9afb-4289-a202-ebb33f8c341e.png"
+            ]
           ]
         },
         {
@@ -331,6 +356,20 @@
             [
               "두근두근! 초코스틱 대작전 이벤트 안내",
               "■ 이벤트 내용 : 달콤한 초코스틱으로 사랑을 전하는 '두근두근! 초코스틱 대작전' 이벤트가 시작됩니다."
+            ]
+          ],
+          "images": [
+            [
+              "✨ 두근두근! 초코스틱 대작전 이벤트 안내",
+              "https://mapleplanet.io/uploads/cs/content-0d6f3056-9029-4416-952e-a0848cdff9c0.png"
+            ],
+            [
+              "✨ 두근두근! 초코스틱 대작전 이벤트 안내",
+              "https://mapleplanet.io/uploads/cs/content-513ffdd8-4810-48a3-b570-112f41d11448.png"
+            ],
+            [
+              "✨ 두근두근! 초코스틱 대작전 이벤트 안내",
+              "https://mapleplanet.io/uploads/cs/content-1a1bd32d-bec0-4a57-9a83-831a8b0070dc.png"
             ]
           ]
         },
@@ -358,6 +397,12 @@
               "플래닛 에반 스템업 & 버닝 부스터 이벤트 안내",
               "■ 이벤트 내용 : 에반을 성장시켜 보상을 받고 버닝 부스트를 받아보자"
             ]
+          ],
+          "images": [
+            [
+              "✨ 플래닛 에반 스템업 & 버닝 부스터 이벤트 안내",
+              "https://mapleplanet.io/uploads/cs/content-366a306a-2070-4013-8b44-881e51b0f2e2.png"
+            ]
           ]
         },
         {
@@ -384,6 +429,12 @@
               "플래닛 가을운동회 이벤트 안내",
               "■ 이벤트 내용 : 박을 터트리고 줄다리기에 참여해보자"
             ]
+          ],
+          "images": [
+            [
+              "✨ 플래닛 가을운동회 이벤트 안내",
+              "https://mapleplanet.io/uploads/cs/content-23788cca-62b0-44f4-9146-7f234af72532.png"
+            ]
           ]
         },
         {
@@ -409,6 +460,12 @@
             [
               "거대 월묘 퇴치 '작전' 안내",
               "■ 이벤트 내용 : 각 마을에 랜덤으로 출몰하는 거대 월묘를 퇴치하고 다양한 보상을 획득해 보세요."
+            ]
+          ],
+          "images": [
+            [
+              "✨ 거대 월묘 퇴치 '작전' 안내",
+              "https://mapleplanet.io/uploads/cs/content-8de84275-131b-476e-924a-85f1f84c0c62.png"
             ]
           ]
         },
@@ -460,6 +517,12 @@
               "추석맞이 플래닛 핫타임 이벤트 안내",
               "■ 이벤트 일정 및 보상 구성은 운영 상황에 따라 일부 조정될 수 있습니다."
             ]
+          ],
+          "images": [
+            [
+              "✨ 추석맞이 플래닛 핫타임 이벤트 안내",
+              "https://mapleplanet.io/uploads/cs/content-9111575f-97c2-4ba7-9b65-637aa08e3e3f.png"
+            ]
           ]
         },
         {
@@ -498,13 +561,19 @@
               "추석맞이 데일리기프트 안내",
               "■ 이벤트 기간이 종료된 이후에는 보상을 수령할 수 없으니 기간 내 반드시 참여해 주시기 바랍니다."
             ]
+          ],
+          "images": [
+            [
+              "✨ 추석맞이 데일리기프트 안내",
+              "https://mapleplanet.io/uploads/cs/content-c2b36a3b-01ea-4013-914e-7948f979910d.png"
+            ]
           ]
         }
       ]
     },
     "patch": {
       "status": "ok",
-      "checked_at": "2026-11-20T15:05:14.856881+09:00",
+      "checked_at": "2026-11-20T16:01:33.368105+09:00",
       "posts": [
         {
           "source": "patch",
@@ -722,6 +791,52 @@
               "기타",
               "펫이 두마리 이상인 경우 밧줄에 매달릴 때 원작과 동일한 열기구 형태로 표기되도록 변경됩니다."
             ]
+          ],
+          "images": [
+            [
+              "월드 최대 입장인원 변경 안내",
+              "https://mapleplanet.io/uploads/cs/content-64a46fd1-7ed4-41d9-9201-072080f99dab.png"
+            ],
+            [
+              "월드 최대 입장인원 변경 안내",
+              "https://mapleplanet.io/uploads/cs/content-0d97975f-e85a-400c-a3cd-c5184ddce688.png"
+            ],
+            [
+              "월드 최대 입장인원 변경 안내",
+              "https://mapleplanet.io/uploads/cs/content-c03cdcf8-6784-4e6b-90e6-6d15f4568cb3.png"
+            ],
+            [
+              "월드 최대 입장인원 변경 안내",
+              "https://mapleplanet.io/uploads/cs/content-9e2d06f0-c36e-427e-8e63-aa996ef2cece.png"
+            ],
+            [
+              "월드 최대 입장인원 변경 안내",
+              "https://mapleplanet.io/uploads/cs/content-e837b6d9-7d01-45b8-a461-0d96d8d36698.png"
+            ],
+            [
+              "월드 최대 입장인원 변경 안내",
+              "https://mapleplanet.io/uploads/cs/content-c95280d0-b94f-4e90-a6e9-b83bbcb6c9ce.png"
+            ],
+            [
+              "월드 최대 입장인원 변경 안내",
+              "https://mapleplanet.io/uploads/cs/content-5df365aa-11a1-4746-ada3-a5407640d909.png"
+            ],
+            [
+              "월드 최대 입장인원 변경 안내",
+              "https://mapleplanet.io/uploads/cs/content-d435154c-572f-4d0c-9942-3da727e72ecc.png"
+            ],
+            [
+              "월드 최대 입장인원 변경 안내",
+              "https://mapleplanet.io/uploads/cs/content-b62ecbe1-4381-4b6b-bc49-7a994a7e2778.png"
+            ],
+            [
+              "월드 최대 입장인원 변경 안내",
+              "https://mapleplanet.io/uploads/cs/content-489288f5-cfeb-49da-9b3f-fb83d5ba3fb8.png"
+            ],
+            [
+              "🔹 UI / 편의",
+              "https://mapleplanet.io/uploads/cs/content-9a3520ff-2b7a-4433-adf4-d4e4a5235255.png"
+            ]
           ]
         },
         {
@@ -759,6 +874,12 @@
             [
               "기타",
               "밧줄이나 사다리에 매달렸을 때 펫이 캐릭터에 가려 보이지 않던 오류가 수정됩니다."
+            ]
+          ],
+          "images": [
+            [
+              "🔹 UI / 편의",
+              "https://mapleplanet.io/uploads/cs/content-3c318a6a-51b7-4465-87f5-81a9f730fc87.png"
             ]
           ]
         },
@@ -1174,6 +1295,44 @@
               "기타",
               "펫을 여러 마리 소환했을 때 일부 펫이 명령어에 반응하지 않던 오류가 수정됩니다."
             ]
+          ],
+          "images": [
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-e44ae6fc-9456-4e05-b279-bf4aeab64c0b.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-861ea4f7-c0f7-419a-9482-5bc1bfedd390.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-901024e2-e36b-4c9d-bb1f-091fecd715dc.png"
+            ],
+            [
+              "🔹 스킬 / 직업",
+              "https://mapleplanet.io/uploads/cs/content-f01e496d-fe20-43e9-ac56-2327cbbc2e6c.png"
+            ],
+            [
+              "노블/로얄 반 레온 숄더가드 변경 사항 안내 ​",
+              "https://mapleplanet.io/uploads/cs/content-62e98057-a0c1-4137-9b58-95fea3fbbda1.png"
+            ],
+            [
+              "🔹 UI / 편의",
+              "https://mapleplanet.io/uploads/cs/content-dd456750-8106-4635-a343-6cb6554bdf0c.png"
+            ],
+            [
+              "🔹 UI / 편의",
+              "https://mapleplanet.io/uploads/cs/content-8c30627b-dc99-4423-81f3-b278dfee7129.png"
+            ],
+            [
+              "🔹 UI / 편의",
+              "https://mapleplanet.io/uploads/cs/content-4c8877d9-865a-4c9f-84f2-c3dfd3ed69b3.png"
+            ],
+            [
+              "🔹 UI / 편의",
+              "https://mapleplanet.io/uploads/cs/content-b4acb5f9-c518-4afc-9721-1cde2d551c11.png"
+            ]
           ]
         },
         {
@@ -1344,6 +1503,56 @@
               "기타",
               "일부 맵에서 해당 맵의 상세 지도가 아닌 대륙 지도가 나오던 오류가 수정됩니다."
             ]
+          ],
+          "images": [
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-0e2974cd-ffaf-4c2e-9730-e48e7802a667.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-b2ca60ff-436d-467f-ba4f-28d7670f7344.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-b3f3c2b7-6c4c-412b-b654-e7a865630cbe.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-50b784ed-958c-4a1c-982d-0ae0c0004e50.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-80482581-afb2-4a59-9afc-994da5639a7d.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-af1d9f7b-5d4d-4ef1-807f-a5a9d6ee50b7.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-f6974f36-9eca-4681-9660-7fb8912451ca.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-9447a9e5-6ece-4624-bd5e-e2aba5a64d27.png"
+            ],
+            [
+              "🔹 UI / 편의",
+              "https://mapleplanet.io/uploads/cs/content-c5874186-26da-45a4-b26b-71feda9c3a86.png"
+            ],
+            [
+              "🔹 UI / 편의",
+              "https://mapleplanet.io/uploads/cs/content-903f32f3-d82d-4414-b043-33f7812315be.png"
+            ],
+            [
+              "🔹 UI / 편의",
+              "https://mapleplanet.io/uploads/cs/content-9995584e-da3c-4091-a81d-13694397714a.png"
+            ],
+            [
+              "🔹 UI / 편의",
+              "https://mapleplanet.io/uploads/cs/content-f5482021-4162-4a06-a249-c0bcb6dab1e2.png"
+            ]
           ]
         },
         {
@@ -1373,6 +1582,20 @@
             [
               "UI / 편의",
               "모바일 환경에서 화면 비율이 4:3인 기기(아이패드 등)에서도 16:9 화면과 비슷한 범위가 보이도록 조정됩니다."
+            ]
+          ],
+          "images": [
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-207d6cf3-bb85-4176-beda-24bbd2ae3bc2.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-14f06f0b-1224-4330-abaf-9d7deec6275c.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-6b6bf3fe-2ca4-4718-97a2-08e2101b5892.png"
             ]
           ]
         },
@@ -1516,6 +1739,40 @@
               "기타",
               "핼리오스탑 도서관에서 간헐적으로 핼리오스탑으로 가는 포탈 오브젝트가 보이지 않던 오류가 개선됩니다."
             ]
+          ],
+          "images": [
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-d7af7399-bdad-4185-bdf3-fe93a2d6844e.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-994a6cd8-b744-41a8-8aec-0b16f86a4954.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-ba6bce2e-cd6b-41d3-8dba-8a9c578a744d.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-d5ed3cd0-9e65-4a4e-b00d-41c40e07bb09.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-54076611-4f09-41de-9677-e72a0dbb9822.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-3b0dacd9-314d-4783-850d-cfd89bf57eef.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-de4e52c8-b9dd-4d76-a98a-d9628fb14ca5.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-d8652000-c485-4100-8999-662937923c84.png"
+            ]
           ]
         },
         {
@@ -1601,6 +1858,40 @@
             [
               "기타",
               "같은 소비 아이템이라도 교환 가능 여부 등의 속성이나 유효기간이 다르면, 단축키와 장비창의 펫 물약 슬롯에 표시되는 수량이 합산되지 않도록 수정됩니다. 변경된 방식은 새로 등록할 때부터 적용됩니다."
+            ]
+          ],
+          "images": [
+            [
+              "🔹 시스템",
+              "https://img.notionusercontent.com/s3/prod-files-secure%2Ff8f2a654-b0ee-81e5-b69a-0003336219fa%2Fa5c69f0f-3282-4ef6-9223-289e3e741711%2Fimage.png/size/w=2000?tok=eyJhbGciOiJFUzI1NiIsImtpZCI6IlI3dzVrRnREIiwidHlwIjoiSldUIn0.eyJzcGFjZUlkIjoiZjhmMmE2NTQtYjBlZS04MWU1LWI2OWEtMDAwMzMzNjIxOWZhIiwiZmlsZUlkIjoiYTVjNjlmMGYtMzI4Mi00ZWY2LTkyMjMtMjg5ZTNlNzQxNzExIiwiYWN0b3IiOiJub3Rpb25fdXNlcjozNWRkODcyYi01OTRjLTgxZDUtYjA0YS0wMDAyZWM3OGJkMDciLCJyZWNvcmQiOiJibG9jazo0MDAyYTY1NC1iMGVlLTgwODUtYTdlZi1lYTk1NmM5YWY4YWIiLCJleHAiOjE3OTI1OTc4NTd9.Gg16vRUUsxc6eDXFT5HD-I1ctkUkqbcM4j-WDKevxmQWDfTsit_l1mDW03VJG17Ov9O35kFc7aXzQp92fxu1DA&imgBuildSrc=createSecureFileAccessTokenImageUrl&mtd=com"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-ab1d394f-ea35-4800-bea6-1b7e9ad78f9f.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-107ab4df-ff36-4acb-81ae-5bf045028f83.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-ad539ee7-9c4e-4eba-88ae-a687622e0c38.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-185ce90b-2b7e-4cad-8ba5-e2ed0eecaf7f.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-6bf24508-4d67-4fb5-8a66-10f9a5aa2b0b.png"
+            ],
+            [
+              "🔹 시스템",
+              "https://mapleplanet.io/uploads/cs/content-04c7bf29-9ebd-4186-95ad-117514e96fbf.png"
+            ],
+            [
+              "🔹 UI / 편의",
+              "https://mapleplanet.io/uploads/cs/content-8057737d-a729-460a-badb-0b7101ed0c9d.png"
             ]
           ]
         },
@@ -1796,6 +2087,60 @@
               "지속적인 문의 답변",
               "원작과 동일하게 물리 공격과 기본 공격, 소환수 공격에는 적용되지 않습니다."
             ]
+          ],
+          "images": [
+            [
+              "🔹 스킬 / 직업",
+              "https://mapleplanet.io/uploads/cs/content-3cd10c74-c096-4b7f-a3fd-c90e0e486caf.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-b8ea66a4-52b9-4a60-b856-c53823901678.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-b9f10096-9b03-453f-a2fb-e5b6cceefd5f.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-12b0941b-9d0b-4250-84b0-27afbbf2629c.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-9505aee9-0754-43c7-83fb-73a4390d8387.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-11f8eabb-0dbf-443f-803f-8a90ddf4d155.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-dd203a29-0dec-46ba-9084-d298bff6f63d.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-c910e17a-7119-4999-bac4-c4c51cd080b1.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-ab48bb99-afb0-4064-8e7c-0cce25f436ad.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-452369d8-8516-4fff-a19e-01eb9d77d365.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-9f3cb459-048d-4b04-82de-2ddac2222269.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-73a30ed3-ec5b-4371-99c8-8e3dcc456975.png"
+            ],
+            [
+              "🔹 몬스터 / 아이템 / 필드",
+              "https://mapleplanet.io/uploads/cs/content-a63771fd-6b0c-4c39-bb8b-045b575d96f1.png"
+            ]
           ]
         },
         {
@@ -1934,7 +2279,8 @@
               "기타",
               "네트워크 지연시 간헐적으로 파티 가입, 초대, 탈퇴, 추방, 파티장 위임, 해체의 결과가 서버와 다르게 표시되던 현상이 개선됩니다."
             ]
-          ]
+          ],
+          "images": []
         },
         {
           "source": "patch",
@@ -2008,7 +2354,8 @@
               "전체",
               "양손도끼, 양손검, 양손둔기 가만히 서있을경우 무기가 안보이던 버그가 수정됩니다."
             ]
-          ]
+          ],
+          "images": []
         }
       ]
     }
