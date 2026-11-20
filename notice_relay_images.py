@@ -45,9 +45,34 @@ def patch_images(article, base):
                 (width is not None and width <= 300) or
                 re.search(r'/img/(?:champion|spell|item)/|icon|logo', source, re.I) or source in seen):
             continue
+        image_section = section
+        if urlsplit(base).hostname == 'mapleplanet.io':
+            for parent in node.find_parents('li'):
+                own = BeautifulSoup(str(parent), 'html.parser').find('li')
+                for nested in own.find_all(['ul', 'ol']):
+                    nested.decompose()
+                context = own.get_text(' ', strip=True)
+                if context:
+                    image_section = patch_topic(section, context)
+                    break
         seen.add(source)
-        result.append((section, source))
+        result.append((image_section, source))
     return result
+
+
+def patch_topic(section, text):
+    intro = text.split(' · ', 1)[0]
+    for label, pattern in (
+        ('월드 입장 인원', r'최대\s*입장\s*인원'),
+        ('경매장', r'경매장'),
+        ('무릉도장', r'무릉도장'),
+        ('길드', r'길드'),
+        ('패밀리', r'패밀리'),
+        ('이벤트', r'버닝|이벤트|코인샵'),
+    ):
+        if re.search(pattern, intro):
+            return label
+    return '시스템' if re.search(r'최대\s*입장\s*인원', section) else section
 
 
 class PartyError(ValueError): pass
