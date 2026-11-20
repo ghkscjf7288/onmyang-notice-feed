@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T16:01:01.790537+09:00",
+  "generated_at": "2026-11-20T16:33:25.961035+09:00",
   "sources": {
     "world": {
       "status": "ok",
-      "checked_at": "2026-11-20T16:01:15.671672+09:00",
+      "checked_at": "2026-11-20T16:33:37.807786+09:00",
       "posts": [
         {
           "source": "world",
@@ -30,7 +30,7 @@
     },
     "planet": {
       "status": "ok",
-      "checked_at": "2026-11-20T16:01:19.789298+09:00",
+      "checked_at": "2026-11-20T16:33:49.992458+09:00",
       "posts": [
         {
           "source": "planet",
@@ -200,7 +200,7 @@
     },
     "event": {
       "status": "ok",
-      "checked_at": "2026-11-20T16:01:33.316140+09:00",
+      "checked_at": "2026-11-20T16:34:03.850562+09:00",
       "posts": [
         {
           "source": "event",
@@ -573,7 +573,7 @@
     },
     "patch": {
       "status": "ok",
-      "checked_at": "2026-11-20T16:01:33.368105+09:00",
+      "checked_at": "2026-11-20T16:34:03.918244+09:00",
       "posts": [
         {
           "source": "patch",
@@ -794,43 +794,43 @@
           ],
           "images": [
             [
-              "월드 최대 입장인원 변경 안내",
+              "경매장",
               "https://mapleplanet.io/uploads/cs/content-64a46fd1-7ed4-41d9-9201-072080f99dab.png"
             ],
             [
-              "월드 최대 입장인원 변경 안내",
+              "경매장",
               "https://mapleplanet.io/uploads/cs/content-0d97975f-e85a-400c-a3cd-c5184ddce688.png"
             ],
             [
-              "월드 최대 입장인원 변경 안내",
+              "경매장",
               "https://mapleplanet.io/uploads/cs/content-c03cdcf8-6784-4e6b-90e6-6d15f4568cb3.png"
             ],
             [
-              "월드 최대 입장인원 변경 안내",
+              "경매장",
               "https://mapleplanet.io/uploads/cs/content-9e2d06f0-c36e-427e-8e63-aa996ef2cece.png"
             ],
             [
-              "월드 최대 입장인원 변경 안내",
+              "경매장",
               "https://mapleplanet.io/uploads/cs/content-e837b6d9-7d01-45b8-a461-0d96d8d36698.png"
             ],
             [
-              "월드 최대 입장인원 변경 안내",
+              "패밀리",
               "https://mapleplanet.io/uploads/cs/content-c95280d0-b94f-4e90-a6e9-b83bbcb6c9ce.png"
             ],
             [
-              "월드 최대 입장인원 변경 안내",
+              "패밀리",
               "https://mapleplanet.io/uploads/cs/content-5df365aa-11a1-4746-ada3-a5407640d909.png"
             ],
             [
-              "월드 최대 입장인원 변경 안내",
+              "패밀리",
               "https://mapleplanet.io/uploads/cs/content-d435154c-572f-4d0c-9942-3da727e72ecc.png"
             ],
             [
-              "월드 최대 입장인원 변경 안내",
+              "길드",
               "https://mapleplanet.io/uploads/cs/content-b62ecbe1-4381-4b6b-bc49-7a994a7e2778.png"
             ],
             [
-              "월드 최대 입장인원 변경 안내",
+              "길드",
               "https://mapleplanet.io/uploads/cs/content-489288f5-cfeb-49da-9b3f-fb83d5ba3fb8.png"
             ],
             [
@@ -1298,7 +1298,7 @@
           ],
           "images": [
             [
-              "🔹 시스템",
+              "이벤트",
               "https://mapleplanet.io/uploads/cs/content-e44ae6fc-9456-4e05-b279-bf4aeab64c0b.png"
             ],
             [
@@ -1510,7 +1510,7 @@
               "https://mapleplanet.io/uploads/cs/content-0e2974cd-ffaf-4c2e-9730-e48e7802a667.png"
             ],
             [
-              "🔹 시스템",
+              "길드",
               "https://mapleplanet.io/uploads/cs/content-b2ca60ff-436d-467f-ba4f-28d7670f7344.png"
             ],
             [
