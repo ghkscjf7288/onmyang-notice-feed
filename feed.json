@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T18:05:26.822278+09:00",
+  "generated_at": "2026-11-24T09:00:53.960769+09:00",
   "sources": {
     "world": {
       "status": "ok",
-      "checked_at": "2026-11-23T18:05:37.639690+09:00",
+      "checked_at": "2026-11-24T09:01:04.803915+09:00",
       "posts": [
         {
           "source": "world",
@@ -30,7 +30,7 @@
     },
     "planet": {
       "status": "ok",
-      "checked_at": "2026-11-23T18:05:48.346706+09:00",
+      "checked_at": "2026-11-24T09:01:15.279963+09:00",
       "posts": [
         {
           "source": "planet",
@@ -200,7 +200,7 @@
     },
     "patch": {
       "status": "ok",
-      "checked_at": "2026-11-23T18:06:02.025856+09:00",
+      "checked_at": "2026-11-24T09:01:26.085900+09:00",
       "posts": [
         {
           "source": "patch",
@@ -1490,10 +1490,6 @@
           "images": [
             [
               "🔹 시스템",
-              "https://img.notionusercontent.com/s3/prod-files-secure%2Ff8f2a654-b0ee-81e5-b69a-0003336219fa%2Fa5c69f0f-3282-4ef6-9223-289e3e741711%2Fimage.png/size/w=2000?tok=eyJhbGciOiJFUzI1NiIsImtpZCI6IlI3dzVrRnREIiwidHlwIjoiSldUIn0.eyJzcGFjZUlkIjoiZjhmMmE2NTQtYjBlZS04MWU1LWI2OWEtMDAwMzMzNjIxOWZhIiwiZmlsZUlkIjoiYTVjNjlmMGYtMzI4Mi00ZWY2LTkyMjMtMjg5ZTNlNzQxNzExIiwiYWN0b3IiOiJub3Rpb25fdXNlcjozNWRkODcyYi01OTRjLTgxZDUtYjA0YS0wMDAyZWM3OGJkMDciLCJyZWNvcmQiOiJibG9jazo0MDAyYTY1NC1iMGVlLTgwODUtYTdlZi1lYTk1NmM5YWY4YWIiLCJleHAiOjE3OTI1OTc4NTd9.Gg16vRUUsxc6eDXFT5HD-I1ctkUkqbcM4j-WDKevxmQWDfTsit_l1mDW03VJG17Ov9O35kFc7aXzQp92fxu1DA&imgBuildSrc=createSecureFileAccessTokenImageUrl&mtd=com"
-            ],
-            [
-              "🔹 시스템",
               "https://mapleplanet.io/uploads/cs/content-ab1d394f-ea35-4800-bea6-1b7e9ad78f9f.png"
             ],
             [
@@ -1988,7 +1984,7 @@
     },
     "event": {
       "status": "ok",
-      "checked_at": "2026-11-23T18:06:02.033733+09:00",
+      "checked_at": "2026-11-24T09:01:26.094692+09:00",
       "posts": [
         {
           "source": "event",
