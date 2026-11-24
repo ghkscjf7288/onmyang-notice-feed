@@ -10,7 +10,7 @@ from datetime import datetime
 from html.parser import HTMLParser
 from pathlib import Path
 from zoneinfo import ZoneInfo
-from urllib.parse import urljoin,urlsplit
+from urllib.parse import unquote,urljoin,urlsplit
 from bs4 import BeautifulSoup
 KST=ZoneInfo('Asia/Seoul')
 def patch_priority(title):
@@ -21,6 +21,20 @@ def patch_priority(title):
     if re.search(r'시스템|아이템|월드|맵|편의|UX|UI|음성', title):
         return 1
     return 2
+
+
+def signed_image_url(url):
+    # Nested proxy URLs may percent-encode the original signature parameters.
+    decoded = url
+    for _ in range(4):
+        next_value = unquote(decoded)
+        if next_value == decoded:
+            break
+        decoded = next_value
+    return bool(re.search(
+        r'[?&#;](?:tok|token|access_token|auth_token|signature|sig|x-amz-[\w-]+|x-goog-[\w-]+|key-pair-id|policy)=',
+        decoded, re.I,
+    ))
 
 
 def patch_images(article, base):
@@ -41,7 +55,8 @@ def patch_images(article, base):
         dimensions = re.search(r'-(\d+)x(\d+)\.', source)
         width = str(node.get('width', ''))
         width = int(width) if width.isdigit() else int(dimensions[1]) if dimensions else None
-        if (parsed.scheme != 'https' or parsed.username or parsed.password or
+        if (parsed.scheme != 'https' or not parsed.hostname or parsed.username or parsed.password or
+                signed_image_url(source) or
                 (width is not None and width <= 300) or
                 re.search(r'/img/(?:champion|spell|item)/|icon|logo', source, re.I) or source in seen):
             continue
