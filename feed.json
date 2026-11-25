@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T14:02:23.663828+09:00",
+  "generated_at": "2026-11-25T14:56:56.921115+09:00",
   "sources": {
     "world": {
       "status": "ok",
-      "checked_at": "2026-11-25T14:02:33.082892+09:00",
+      "checked_at": "2026-11-25T14:57:06.765200+09:00",
       "posts": [
         {
           "source": "world",
@@ -30,7 +30,7 @@
     },
     "planet": {
       "status": "ok",
-      "checked_at": "2026-11-25T14:02:43.445838+09:00",
+      "checked_at": "2026-11-25T14:57:15.728145+09:00",
       "posts": [
         {
           "source": "planet",
@@ -160,7 +160,7 @@
     },
     "event": {
       "status": "ok",
-      "checked_at": "2026-11-25T14:02:57.024550+09:00",
+      "checked_at": "2026-11-25T14:57:27.952500+09:00",
       "posts": [
         {
           "source": "event",
@@ -493,7 +493,7 @@
     },
     "patch": {
       "status": "ok",
-      "checked_at": "2026-11-25T14:02:57.216569+09:00",
+      "checked_at": "2026-11-25T14:57:28.034036+09:00",
       "posts": [
         {
           "source": "patch",
