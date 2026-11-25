@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "images": {
+    "https://mapleplanet.io/uploads/cs/content-40b72fce-6e9c-4107-a118-2902c7ad099f.png": {
+      "status": "approved",
+      "reviewer": "GPT",
+      "reviewed_at": "2026-11-25T07:10:32.011818+00:00",
+      "source_url": "https://mapleplanet.io/news/events/782",
+      "sha256": "148758da8a4443de4aec5d7aac9deee81ea3bfea943ee714e31705d4cb444556",
+      "width": 1200,
+      "height": 13215,
+      "cover": {
+        "label": "소복소복! 플래닛 윈터 기프트 & 코인샵 · 표지와 기간",
+        "top": 0,
+        "bottom": 2190
+      },
+      "sections": [
+        {
+          "label": "윈터 데일리 기프트 · 보상과 유의사항",
+          "top": 2190,
+          "bottom": 4130
+        },
+        {
+          "label": "윈터리밋 코인샵 · 상품 목록과 구매 안내",
+          "top": 4130,
+          "bottom": 7800
+        },
+        {
+          "label": "프로스티 장비 · 세트 효과와 유의사항",
+          "top": 7800,
+          "bottom": 9390
+        },
+        {
+          "label": "정령의 펜던트 · 경험치 효과와 유의사항",
+          "top": 9390,
+          "bottom": 10600
+        },
+        {
+          "label": "윈터 리밋 뱃지함 · 능력치와 유의사항",
+          "top": 10600,
+          "bottom": 13215
+        }
+      ]
+    },
+    "https://mapleplanet.io/uploads/cs/content-0e7e7f2a-24dd-4847-a861-411d39af0d90.png": {
+      "status": "approved",
+      "reviewer": "GPT",
+      "reviewed_at": "2026-11-25T07:10:32.026304+00:00",
+      "source_url": "https://mapleplanet.io/news/events/781",
+      "sha256": "e4eba1b998277d4719a20290deb4945a45b2da9b3dba68498042e2442ca10250",
+      "width": 1200,
+      "height": 15562,
+      "cover": {
+        "label": "소복소복! 플래닛 윈터 이벤트 · 표지와 기간",
+        "top": 0,
+        "bottom": 2190
+      },
+      "sections": [
+        {
+          "label": "크리스마스 트리 장식하기 · 참여 방법과 보상",
+          "top": 2190,
+          "bottom": 5190
+        },
+        {
+          "label": "단단해져라! 이글루 · 참여 방법과 유의사항",
+          "top": 5190,
+          "bottom": 6840
+        },
+        {
+          "label": "거대 눈사람의 습격 · 참여 방법과 보상",
+          "top": 6840,
+          "bottom": 9140
+        },
+        {
+          "label": "불량 루돌프 퇴치 · 빛나는 상자와 유의사항",
+          "top": 9140,
+          "bottom": 11050
+        },
+        {
+          "label": "레벨 범위 몬스터 처치 · 산타의 빛나는 상자",
+          "top": 11050,
+          "bottom": 12870
+        },
+        {
+          "label": "나만의 빨간코 완성 · 강화 방법과 유의사항",
+          "top": 12870,
+          "bottom": 15562
+        }
+      ]
+    }
+  }
+}
